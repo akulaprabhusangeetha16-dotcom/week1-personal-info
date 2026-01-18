@@ -9,7 +9,7 @@ print("=" * 40)
 print()
 
 # Store static information
-name = " Shiva "
+name = "Shiva"
 age = 23
 city = "Chennai"
 hobby = "Reading medical journals"
