@@ -1,0 +1,13 @@
+Test Case 1:
+Favorite Food: Pizza
+Favorite Color: Blue
+
+Test Case 2:
+Favorite Food:
+(empty input → should prompt again)
+Favorite Food: Biryani
+Favorite Color: Green
+
+Test Case 3:
+Favorite Food: VeryVeryLongFoodNameToTestProgram
+Favorite Color: LightSkyBlue
